@@ -1,5 +1,0 @@
- Quando comita aparece em na arvore, pasta Object. Trackeando arquivo usando função hash. Chama-se blob, melhorar indexaçao.
-O escritor do Pro Git tem aulas no You tube: nome do autor. Scott ChaconComandos utilizados no episódio 1.
-version, init, add, status, commit, log;
-
-
